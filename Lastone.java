@@ -44,6 +44,8 @@ public class Lastone {
        else if(sh>=14&&eh<=19){
            total=1500*h;
            System.out.println("the rent will be 1500 RWF per hour"+"and your total:"+total);
+       }else{
+           System.out.println("not working");
        }
        
     }
